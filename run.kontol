@@ -223,7 +223,7 @@ def menu(id):
 	try:
 		cok = open('.cookiesakun.txt','r').read()
 	except IOError:
-		print(f'{mer}cookies telah kadaluarsa ster')
+		print(f' [X] cookies invalid ')
 		waktu(4)
 		login_ke_tools()
 	os.system('clear')
