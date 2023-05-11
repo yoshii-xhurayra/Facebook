@@ -14,5 +14,7 @@ https://github.com/yuthaa/Facebook
 * cd Facebook        
 * python run.kontol         
 
+```jika sudah berhasil login silahkan jalankan ulang toolsnya```
+
 [ NOTE ]          
 jika ada yang ```error``` bisa di tanyakan lewat facebook ```panda hyucimaki```
