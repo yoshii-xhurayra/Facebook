@@ -1,7 +1,7 @@
 ## Facebook
 Simple crack gratis 
 
-tools ini buat ngehek akun efbih gratis. tidak di pungut pajak 🗿             
+tools ini buat ngehek akun efbih gratis. tidak di pungut pajak🗿             
 # Cara menjalankan tools ```Di termux```
 * pkg update && pkg upgrade      
 * pkg install python           
@@ -9,12 +9,12 @@ tools ini buat ngehek akun efbih gratis. tidak di pungut pajak 🗿
 * pkg install pip           
 ```
 git clone
-https://github.com/yuthaa/Facebook
+https://github.com/GithubCadangan/Facebook
 ```      
 * cd Facebook        
-* python run.kontol         
+* python run.py      
 
 ```jika sudah berhasil login silahkan jalankan ulang toolsnya```
 
 [ NOTE ]          
-jika ada yang ```error``` bisa di tanyakan lewat facebook ```panda hyucimaki```
+APALAH DIA APALAH
